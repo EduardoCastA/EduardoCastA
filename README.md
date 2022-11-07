@@ -1,8 +1,8 @@
 ### Hi there 👋
 ### I'm currently studying systems engineering
 ### I am interested in the areas of:
-### ### 💻Web and mobile development 📳
-### ### 🤖Artificial Intelligence and Intelligent Robotics
+### 💻Web and mobile development 📳
+### 🤖Artificial Intelligence and Intelligent Robotics
 <!--
 **EduardoCastA/EduardoCastA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
