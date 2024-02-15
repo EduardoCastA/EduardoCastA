@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm currently studying systems engineering
+### I am currently finishing my degree in systems engineering.
 
 ---
 
