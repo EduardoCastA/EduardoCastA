@@ -51,10 +51,10 @@ Currently, related to my areas of interest, I have basic knowledge of the follow
 
 ## &#x1f4c8; My GitHub Stats
 
-<a href="https://github.com/EduardoCastA/EduardoCastA">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoCastA&title_color=cb6ce6&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
+<a href="https://github.com/EduardoCastA">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoCastA&title_color=cb6ce6&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="EduardoCastA's Most Used Languages"/>
 </a>
 
-<a href="https://github.com/EduardoCastA/EduardoCastA">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EduardoCastA&show_icons=true&line_height=27&count_private=true&title_color=cb6ce6&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="EduardoCastA's GitHub Stats" />
+<a href="https://github.com/EduardoCastA">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EduardoCastA&show_icons=true&line_height=27&title_color=cb6ce6&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="EduardoCastA's GitHub Stats" />
 </a>
